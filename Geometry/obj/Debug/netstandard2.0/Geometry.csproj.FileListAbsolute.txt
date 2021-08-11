@@ -1,0 +1,9 @@
+C:\Projects\Тестовые задания\Geometry\Geometry\bin\Debug\netstandard2.0\Geometry.deps.json
+C:\Projects\Тестовые задания\Geometry\Geometry\bin\Debug\netstandard2.0\Geometry.dll
+C:\Projects\Тестовые задания\Geometry\Geometry\bin\Debug\netstandard2.0\Geometry.pdb
+C:\Projects\Тестовые задания\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.csprojAssemblyReference.cache
+C:\Projects\Тестовые задания\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.AssemblyInfoInputs.cache
+C:\Projects\Тестовые задания\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.AssemblyInfo.cs
+C:\Projects\Тестовые задания\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.csproj.CoreCompileInputs.cache
+C:\Projects\Тестовые задания\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.dll
+C:\Projects\Тестовые задания\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.pdb

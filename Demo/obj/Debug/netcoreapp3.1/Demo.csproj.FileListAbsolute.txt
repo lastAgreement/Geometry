@@ -1,0 +1,16 @@
+C:\Projects\Тестовые задания\Geometry\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Projects\Тестовые задания\Geometry\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Projects\Тестовые задания\Geometry\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Projects\Тестовые задания\Geometry\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Projects\Тестовые задания\Geometry\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Projects\Тестовые задания\Geometry\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Projects\Тестовые задания\Geometry\Demo\bin\Debug\netcoreapp3.1\Geometry.dll
+C:\Projects\Тестовые задания\Geometry\Demo\bin\Debug\netcoreapp3.1\Geometry.pdb
+C:\Projects\Тестовые задания\Geometry\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Projects\Тестовые задания\Geometry\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Projects\Тестовые задания\Geometry\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Projects\Тестовые задания\Geometry\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Projects\Тестовые задания\Geometry\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+C:\Projects\Тестовые задания\Geometry\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Projects\Тестовые задания\Geometry\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Projects\Тестовые задания\Geometry\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
